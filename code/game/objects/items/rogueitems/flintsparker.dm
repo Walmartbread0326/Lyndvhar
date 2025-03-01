@@ -8,7 +8,7 @@
 	throwforce = 0
 	slot_flags = ITEM_SLOT_HIP
 	obj_flags = null
-	w_class = WEIGHT_CLASS_SMALL
+	w_class = WEIGHT_CLASS_TINY
 	icon = 'icons/roguetown/items/lighting.dmi'
 	var/flintcd = 0
 	anvilrepair = /datum/skill/craft/blacksmithing
